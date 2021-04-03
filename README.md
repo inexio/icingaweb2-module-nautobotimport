@@ -63,8 +63,8 @@ ipv4_address: "192.168.0.1"
 ```
 
 A list of all possible fields can be seen in the "Preview" of your Import Source,
-in your Sync Rule while adding a new property or in your API itself: https://netbox.example.com/api/dcim/devices/,
-https://netbox.example.com/api/virtualization/virtual-machines/.
+in your Sync Rule while adding a new property or in your API itself: https://nautobot.example.com/api/dcim/devices/,
+https://nautobot.example.com/api/virtualization/virtual-machines/.
 
 In some cases additional fields are provided:
 
