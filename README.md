@@ -1,14 +1,14 @@
-# Icinga Web 2 Netbox Import
+# Icinga Web 2 Nautobot Import
 
-Import devices and virtual machines from [netbox](https://github.com/digitalocean/netbox)
+Import devices and virtual machines from [nautobot](https://github.com/nautobot/nautobot)
 into icinga2 to monitor them.
 
 ## Installation
 
 ```shell
 $ cd /usr/share/icingaweb2/modules
-$ git clone https://github.com/Uberspace/icingaweb2-module-netboximport.git netboximport
-$ icingacli module enable netboximport
+$ git clone https://github.com/inexio/icingaweb2-module-nautobotimport.git nautobotimport
+$ icingacli module enable nautobotimport
 ```
 
 ## Configuration
