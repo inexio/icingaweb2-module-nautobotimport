@@ -1,11 +1,11 @@
 <?php
 
-namespace Icinga\Module\Netboximport\ProvidedHook\Director;
+namespace Icinga\Module\Nautobotimport\ProvidedHook\Director;
 
 use Icinga\Application\Config;
 use Icinga\Module\Director\Web\Form\QuickForm;
 use Icinga\Module\Director\Hook\ImportSourceHook;
-use Icinga\Module\Netboximport\Api;
+use Icinga\Module\Nautobotimport\Api;
 
 class ImportSource extends ImportSourceHook {
     private $api;
@@ -310,7 +310,7 @@ class ImportSource extends ImportSourceHook {
     }
 
     public function getName() {
-        return 'Netbox';
+        return 'Nautobot';
     }
 
 }
