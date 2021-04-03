@@ -41,7 +41,7 @@ Stacktrace ...
 * Icinga Web 2 Netboximport version (System - About):
 * Icinga Web 2 Director version (System - About):
 * Icinga Web 2 version and modules (System - About):
-* Netbox version (System - About):
+* Nautobot version (System - About):
 * Version used (`icinga2 --version`):
 * Operating System and version:
 * Enabled features (`icinga2 feature list`):
